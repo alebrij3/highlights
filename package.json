@@ -1,0 +1,25 @@
+{
+  "name": "highlights",
+  "version": "0.1.0",
+  "description": "Notes and Quotes on Books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejvndrox/highlights.git"
+  },
+  "keywords": [
+    "javascript",
+    "quotes",
+    "highlights",
+    "books"
+  ],
+  "author": "ajf@fastmail.com",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/alejvndrox/highlights/issues"
+  },
+  "homepage": "https://github.com/alejvndrox/highlights#readme"
+}
