@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/alejvndrox/highlights/issues"
   },
-  "homepage": "https://github.com/alejvndrox/highlights#readme"
+  "homepage": "https://github.com/alejvndrox/highlights#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1"
+  }
 }
