@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/alejvndrox/highlights#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^4.2.0",
+    "mini-css-extract-plugin": "^0.9.0",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
   },
