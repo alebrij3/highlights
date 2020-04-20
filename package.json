@@ -24,5 +24,9 @@
   "homepage": "https://github.com/alejvndrox/highlights#readme",
   "devDependencies": {
     "webpack": "^4.42.1"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
