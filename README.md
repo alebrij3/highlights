@@ -3,12 +3,12 @@ This is my First web Application! [watercolor landing page](https://github.com/a
 
 ## Technologies used
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="auto" height="120px" alt="html5 logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="auto" height="120px" alt="css3 logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="auto" height="120px" alt="sass logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="auto" height="120px" alt="javascript logo" />
-<img src="https://github.com/webpack/media/blob/master/logo/logo-on-white-bg.svg" width="auto" height="120px" alt="webpack logo" />
-<img src="https://travis-ci.com/images/logos/TravisCI-Full-Color.png" width="auto" height="120px" alt="javascript logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="auto" height="80px" alt="html5 logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="auto" height="80px" alt="css3 logo" />
+<img src="./assets/img/logos/stylus-logo.svg" width="auto" height="80px" alt="sass logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="auto" height="80px" alt="javascript logo" />
+<img src="./assets/img/logos/parcel-logo.png" width="auto" height="80px" alt="webpack logo" />
+<img src="https://travis-ci.com/images/logos/TravisCI-Full-Color.png" width="auto" height="80px" alt="javascript logo" />
 </div>
 
 ### Parcel
