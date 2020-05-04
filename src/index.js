@@ -11,6 +11,8 @@ const initialState = {
       "author": "Peter Thiel",
       "Format": "audiobook",
       "cover": "url",
+      "dateStart": "00/00/000",
+      "dateEnd": "00/00/000",
     },
     {
       "id" : 2,
@@ -18,6 +20,8 @@ const initialState = {
       "author": "Edward Glaeser",
       "Format": "paperback",
       "cover": "url",
+      "dateStart": "00/00/000",
+      "dateEnd": "00/00/000",
     },
     {
       "id" : 3,
@@ -25,6 +29,8 @@ const initialState = {
       "author": "Martin E. P. Seligman",
       "Format": "audiobook",
       "cover": "url",
+      "dateStart": "00/00/000",
+      "dateEnd": "00/00/000",
     },
     {
       "id" : 4,
@@ -32,6 +38,8 @@ const initialState = {
       "author": "Phil Knight",
       "Format": "audiobook",
       "cover": "url",
+      "dateStart": "00/00/000",
+      "dateEnd": "00/00/000",
     },
     {
       "id" : 5,
@@ -39,6 +47,8 @@ const initialState = {
       "author": "Barbara Oakley",
       "Format": "ebook",
       "cover": "url",
+      "dateStart": "00/00/000",
+      "dateEnd": "00/00/000",
     },
   ]
 }
