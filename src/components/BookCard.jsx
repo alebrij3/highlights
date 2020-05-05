@@ -21,23 +21,6 @@ class BookCard extends React.Component {
           </ul>
         </section>
       </div>
-      <div className="book-card">
-        <img src={bookCover} alt=""/>
-        <section className="details">
-          <h2>El triunfo de las ciudades</h2>
-          <p className='author'>Edward Glaeser</p>
-          <p>Editorial: Taurus</p>
-          <p className='dates'><span>Inicio: 07/01/2020</span><br /><span>Final: 02/04/2020</span></p>
-          <p>Etiquetas:</p>
-          <ul className='tags'>
-            <li>ciudades</li>
-            <li>desarrollo urbano</li>
-            <li>globalización</li>
-            <li>urbanismo</li>
-            <li>economía</li>
-          </ul>
-        </section>
-      </div>
       </>
     );
   }
