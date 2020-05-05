@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import '../assets/styles/main.styl';
-import BookCard from './components/BookCard';
+import SourceCard from './components/SourceCard';
 
 const initialState = {
   "books": [
@@ -13,6 +13,7 @@ const initialState = {
       "cover": "url",
       "dateStart": "00/00/000",
       "dateEnd": "00/00/000",
+      "tags": ["entrepreneurship", "startups", "business"],
     },
     {
       "id" : 2,
@@ -53,4 +54,4 @@ const initialState = {
   ]
 }
 
-ReactDOM.render(<BookCard />, document.querySelector('main'));
+ReactDOM.render(<SourceCard initialState />, document.querySelector('main'));
