@@ -5,7 +5,6 @@ import bookCover from '../../assets/img/portadas/el-triunfo-de-las-ciudades.jpg'
 class SourceCard extends React.Component {
   render() {
     return (
-      <>
       <div className="book-card">
         <img src={bookCover} alt=""/>
         <section className="details">
@@ -21,7 +20,6 @@ class SourceCard extends React.Component {
           </ul>
         </section>
       </div>
-      </>
     );
   }
 }
