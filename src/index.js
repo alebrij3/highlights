@@ -4,6 +4,12 @@ import '../assets/styles/main.styl';
 import SourceCard from './components/SourceCard';
 
 const initialState = {
+  "notes": [
+    {
+      "id": 1,
+      "note": "Galjoen fish grenadier zebra tilapia yellow-eye mullet bluegill Pacific trout cat shark. Ilisha; Reef triggerfish pelican eel loosejaw tiger shark snook boafish bullhead. Bigmouth buffalo surf sardine yellow bass spadefish Black sea bass Pacific cod: banjo catfish: tenpounder Redfish ghost pipefish glassfish bonnetmouth. Swordtail. Tui chub boafish, \"sea bream inanga longnose chimaera Old World rivuline, sea chub,\" river loach ribbon eel; mustard eel."
+    }
+  ],
   "books": [
     {
       "id" : 1,
