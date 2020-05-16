@@ -1,38 +1,27 @@
-# Reading is awesome
-This is my First web Application! [watercolor landing page](https://github.com/alejvndrox/landing-page-watercolor)
+# Highlights
 
-## Technologies used
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="auto" height="80px" alt="html5 logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="auto" height="80px" alt="css3 logo" />
-<img src="./assets/img/logos/stylus-logo.svg" width="auto" height="80px" alt="sass logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="auto" height="80px" alt="javascript logo" />
-<img src="./assets/img/logos/parcel-logo.png" width="auto" height="80px" alt="webpack logo" />
-<img src="https://travis-ci.com/images/logos/TravisCI-Full-Color.png" width="auto" height="80px" alt="javascript logo" />
-</div>
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
-### Parcel
+## Development server
 
-### CSS Grid
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Contributing
+## Code scaffolding
 
-Fork it on GitHub!
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-Or just type
-```
-git clone https://github.com/alejvndrox/highlights.git
-```
-on your terminal.
+## Build
 
-You can also download it as ZIP.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-### Installation
+## Running unit tests
 
-Enter to the project's directory, then run
-```
-yarn install
-```
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Licence
-UNLICENCED
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
